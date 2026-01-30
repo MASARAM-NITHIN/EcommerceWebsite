@@ -1,0 +1,8 @@
+
+[
+  { "id": 1, "name": "Basmati Rice 5kg", "price": 699, "image": "https://via.placeholder.com/150" },
+  { "id": 2, "name": "Tata Tea Gold", "price": 245, "image": "https://via.placeholder.com/150" },
+  { "id": 3, "name": "Aashirvaad Atta", "price": 389, "image": "https://via.placeholder.com/150" },
+  { "id": 4, "name": "Amul Butter", "price": 56, "image": "https://via.placeholder.com/150" },
+  { "id": 5, "name": "Maggi Noodles Pack", "price": 120, "image": "https://via.placeholder.com/150" }
+]
